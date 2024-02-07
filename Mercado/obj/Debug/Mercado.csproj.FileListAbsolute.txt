@@ -1,0 +1,18 @@
+C:\Users\Llanero\Documents\Visual Studio 2010\Projects\MiMercado\Mercado\Mercado\bin\Mercado.dll
+C:\Users\Llanero\Documents\Visual Studio 2010\Projects\MiMercado\Mercado\Mercado\bin\Mercado.pdb
+C:\Users\Llanero\Documents\Visual Studio 2010\Projects\MiMercado\Mercado\Mercado\obj\Debug\Mercado.dll
+C:\Users\Llanero\Documents\Visual Studio 2010\Projects\MiMercado\Mercado\Mercado\obj\Debug\Mercado.pdb
+C:\Users\Llanero\Documents\Visual Studio 2010\Projects\MiMercado\Mercado\Mercado\obj\Debug\Mercado.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.dll.config
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.dll
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.pdb
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.dll
+C:\Users\ERWIN\Desktop\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.pdb
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.dll.config
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.dll
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\bin\Mercado.pdb
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.csproj.AssemblyReference.cache
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.csproj.CoreCompileInputs.cache
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.dll
+G:\MIWINDOWS7\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\MiMercado\Mercado\Mercado\obj\Debug\Mercado.pdb
